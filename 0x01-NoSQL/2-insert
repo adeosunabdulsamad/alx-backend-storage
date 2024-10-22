@@ -1,0 +1,4 @@
+// Inert a new document
+db.school.insertOne({
+	"name": "Holberton School"
+})
